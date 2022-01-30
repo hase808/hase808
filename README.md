@@ -1,7 +1,37 @@
-- 👋 Hi, I’m @hase808
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+Hi, I’m @hase808
 
-<!---
-hase808/hase808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OS/Hypervisor:
+
+    MacOS
+    Ubuntu
+    Alpine
+    Raspian
+    Kali Linux
+    ESXi
+    TrueNAS Core
+
+Applications:
+
+    Docker
+    XenMobile
+    Nextcloud
+    Wordpress
+    Jira
+    Confluence
+    Apache
+    Nginx
+    Traefik
+
+Programming Languages and Co.:
+
+    Python
+    HTML
+    CSS
+    JS
+    C
+    Java
+    Bash-Skripte
+    Django
+    Tkinter
+
+
