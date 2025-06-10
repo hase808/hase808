@@ -13,3 +13,5 @@
 - Achtung ich verwende eine eigene GitLab Instanz, dort erfolgt auch die Bereitstellung von Packeten, Dokumentationen usw. ...
     - Mein Gitlab Profil kann [hier](https://git.unhappy.computer/hase808) gefunden werden
     - Mein öffentlichen Projekte werden automatisch zu GitHub synchronisiert
+
+- Logo und Design Information können [hier](Logo-and-Design.md) gefunden werden
