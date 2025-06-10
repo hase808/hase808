@@ -4,8 +4,6 @@
 
 ![Logo](assets/Logo.png)
 
-![Logo-Animation](assets/Logo-Animation.gif)
-
 > Hi, I’m hase808 I went down the rabbit hole... into the darkness.
 
 ## Projekte und mehr
