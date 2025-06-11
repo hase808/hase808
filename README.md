@@ -1,6 +1,6 @@
 # hase808
 
-> [Englisch translation here](/README.md)
+> [Englisch translation here](/README_en.md)
 
 ![Logo](assets/Logo.png)
 
