@@ -15,3 +15,7 @@
     - Mein öffentlichen Projekte werden automatisch zu GitHub synchronisiert
 
 - Logo und Design Informationen können [hier](Logo-and-Design.md) gefunden werden
+
+## Bonus Animation
+
+![Logo-Animation](assets/Logo-Animation.gif)
