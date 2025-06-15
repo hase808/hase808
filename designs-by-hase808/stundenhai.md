@@ -43,24 +43,24 @@ A modern Concert Poster Design for a GitHub profile picture. A highly stylized, 
 ## V1 Examples
 
 - Modell: [flux.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
-- ComfyUI-Workflow: [flux.1-dev-workflow](assets/flux.1-dev-workflow.json)
+- ComfyUI-Workflow: [flux.1-dev-workflow](/assets/flux.1-dev-workflow.json)
 
-![prompt1-1](assets/designs-by-hase808/stundenhai/v1/prompt1-1.png)
-![prompt1-2](assets/designs-by-hase808/stundenhai/v1/prompt1-2.png)
-![prompt1-3](assets/designs-by-hase808/stundenhai/v1/prompt1-3.png)
-![prompt1-4](assets/designs-by-hase808/stundenhai/v1/prompt1-4.png)
+![prompt1-1](/assets/designs-by-hase808/stundenhai/v1/prompt1-1.png)
+![prompt1-2](/assets/designs-by-hase808/stundenhai/v1/prompt1-2.png)
+![prompt1-3](/assets/designs-by-hase808/stundenhai/v1/prompt1-3.png)
+![prompt1-4](/assets/designs-by-hase808/stundenhai/v1/prompt1-4.png)
 
-![prompt2-1](assets/designs-by-hase808/stundenhai/v1/prompt2-1.png)
-![prompt2-2](assets/designs-by-hase808/stundenhai/v1/prompt2-2.png)
-![prompt2-3](assets/designs-by-hase808/stundenhai/v1/prompt2-3.png)
-![prompt2-4](assets/designs-by-hase808/stundenhai/v1/prompt2-4.png)
+![prompt2-1](/assets/designs-by-hase808/stundenhai/v1/prompt2-1.png)
+![prompt2-2](/assets/designs-by-hase808/stundenhai/v1/prompt2-2.png)
+![prompt2-3](/assets/designs-by-hase808/stundenhai/v1/prompt2-3.png)
+![prompt2-4](/assets/designs-by-hase808/stundenhai/v1/prompt2-4.png)
 
 - Prompt 3, wurde auf Grund unschöner Ergebnisse übersprungen
 
-![prompt4-1](assets/designs-by-hase808/stundenhai/v1/prompt4-1.png)
-![prompt4-2](assets/designs-by-hase808/stundenhai/v1/prompt4-2.png)
-![prompt4-3](assets/designs-by-hase808/stundenhai/v1/prompt4-3.png)
-![prompt4-4](assets/designs-by-hase808/stundenhai/v1/prompt4-4.png)
+![prompt4-1](/assets/designs-by-hase808/stundenhai/v1/prompt4-1.png)
+![prompt4-2](/assets/designs-by-hase808/stundenhai/v1/prompt4-2.png)
+![prompt4-3](/assets/designs-by-hase808/stundenhai/v1/prompt4-3.png)
+![prompt4-4](/assets/designs-by-hase808/stundenhai/v1/prompt4-4.png)
 
 ## V2 Prompts
 
@@ -84,23 +84,23 @@ Graphic concert poster design. The central image is a highly detailed, evil grea
 ## V2 Examples
 
 - Modell: [flux.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev)
-- ComfyUI-Workflow: [flux.1-dev-workflow](assets/flux.1-dev-workflow.json)
+- ComfyUI-Workflow: [flux.1-dev-workflow](/assets/flux.1-dev-workflow.json)
 
-![prompt1-1](assets/designs-by-hase808/stundenhai/v2/prompt1-1.png)
-![prompt1-2](assets/designs-by-hase808/stundenhai/v2/prompt1-2.png)
-![prompt1-3](assets/designs-by-hase808/stundenhai/v2/prompt1-3.png)
-![prompt1-4](assets/designs-by-hase808/stundenhai/v2/prompt1-4.png)
+![prompt1-1](/assets/designs-by-hase808/stundenhai/v2/prompt1-1.png)
+![prompt1-2](/assets/designs-by-hase808/stundenhai/v2/prompt1-2.png)
+![prompt1-3](/assets/designs-by-hase808/stundenhai/v2/prompt1-3.png)
+![prompt1-4](/assets/designs-by-hase808/stundenhai/v2/prompt1-4.png)
 
-![prompt2-1](assets/designs-by-hase808/stundenhai/v2/prompt2-1.png)
-![prompt2-2](assets/designs-by-hase808/stundenhai/v2/prompt2-2.png)
-![prompt2-3](assets/designs-by-hase808/stundenhai/v2/prompt2-3.png)
-![prompt2-4](assets/designs-by-hase808/stundenhai/v2/prompt2-4.png)
+![prompt2-1](/assets/designs-by-hase808/stundenhai/v2/prompt2-1.png)
+![prompt2-2](/assets/designs-by-hase808/stundenhai/v2/prompt2-2.png)
+![prompt2-3](/assets/designs-by-hase808/stundenhai/v2/prompt2-3.png)
+![prompt2-4](/assets/designs-by-hase808/stundenhai/v2/prompt2-4.png)
 
-![prompt3-1](assets/designs-by-hase808/stundenhai/v2/prompt3-1.png)
-![prompt3-2](assets/designs-by-hase808/stundenhai/v2/prompt3-2.png)
-![prompt3-3](assets/designs-by-hase808/stundenhai/v2/prompt3-3.png)
-![prompt3-4](assets/designs-by-hase808/stundenhai/v2/prompt3-4.png)
+![prompt3-1](/assets/designs-by-hase808/stundenhai/v2/prompt3-1.png)
+![prompt3-2](/assets/designs-by-hase808/stundenhai/v2/prompt3-2.png)
+![prompt3-3](/assets/designs-by-hase808/stundenhai/v2/prompt3-3.png)
+![prompt3-4](/assets/designs-by-hase808/stundenhai/v2/prompt3-4.png)
 
-![prompt4-1](assets/designs-by-hase808/stundenhai/v2/prompt4-1.png)
-![prompt4-2](assets/designs-by-hase808/stundenhai/v2/prompt4-2.png)
-![prompt4-3](assets/designs-by-hase808/stundenhai/v2/prompt4-3.png)
+![prompt4-1](/assets/designs-by-hase808/stundenhai/v2/prompt4-1.png)
+![prompt4-2](/assets/designs-by-hase808/stundenhai/v2/prompt4-2.png)
+![prompt4-3](/assets/designs-by-hase808/stundenhai/v2/prompt4-3.png)

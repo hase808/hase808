@@ -4,4 +4,4 @@
 
 Hier sind alle Designs die ich mit Hilfe von AI erstellt habe:
 
-- [Stundenhai](designs-by-hase808/stundenhai.md)
+- [Stundenhai](/designs-by-hase808/stundenhai.md)
