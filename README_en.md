@@ -15,6 +15,7 @@
     - My public projects are automatically synchronized to GitHub
 
 - Logo and Design Information can be found [here](Logo-and-Design_en.md)
+- Designs by hase808 can be found [here](/designs-by-hase808/README_en.md)
 
 ## Bonus Animation
 

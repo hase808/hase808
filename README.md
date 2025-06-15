@@ -1,6 +1,6 @@
 # hase808
 
-> [Englisch translation here](/README_en.md)
+> [English translation here](/README_en.md)
 
 ![Logo](assets/Logo.png)
 
@@ -15,6 +15,7 @@
     - Mein öffentlichen Projekte werden automatisch zu GitHub synchronisiert
 
 - Logo und Design Informationen können [hier](Logo-and-Design.md) gefunden werden
+- Designs von hase808 können [hier](designs-by-hase808/README.md) gefunden werden
 
 ## Bonus Animation
 
